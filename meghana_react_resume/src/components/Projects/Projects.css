@@ -35,6 +35,7 @@
 .projects--bodyContainer {
     display: flex;
     align-items: center;
+    /* textAlign: justify; */
     justify-content: center;
     gap: 4.5rem;
     width: 100%;

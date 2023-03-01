@@ -11,23 +11,23 @@
 export const projectsData = [
     
     {
-        id: 2,
-        projectName: 'JPR Inc.',
-        projectDesc: 'It is a web application to buid an E-learning platform.',
+        id: 1,
+        projectName: 'Mentorees (Web Application)',
+        projectDesc: 'It is a web application to build an E-learning platform.',
         tags: ['FastAPI', 'HTML', 'CSS', 'JavaScript', 'React'],
-        code: 'https://github.com/MeghanaP7/git-demo.git',
+        code: 'https://github.com/MeghanaP7/React.git',
         // demo: 'https://personal-iota-flame.vercel.app/',
-        image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
+        // image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
     },
-    // {
-    //     id: 3,
-    //     projectName: 'Agoda Clone',
-    //     projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
-    //     tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
-    //     code: 'https://github.com/shailendra7518/Agoda-clone',
-    //     demo: 'https://agoda-clone.vercel.app/',
-    //     image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
-    // },
+    {
+        id: 2,
+        projectName: 'Deployment Tracker (Web Application)',
+        projectDesc: 'Platform for a DevOps team to understand and deploy the application on to the production',
+        tags: ['React','DevOps'],
+        // code: 'https://github.com/MeghanaP7/DevOps.git',
+        // demo: 'https://agoda-clone.vercel.app/',
+        // image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+    },
     // {
     //     id: 4,
     //     projectName: 'Weather App',

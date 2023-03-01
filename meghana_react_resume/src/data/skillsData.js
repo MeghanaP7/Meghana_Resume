@@ -7,7 +7,8 @@
     "HTML",
     "CSS",
     "Git",
-    "Bootstrap"
+    "Bootstrap",
+    // "React Native",
   
 ]
 

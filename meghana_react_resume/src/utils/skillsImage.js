@@ -12,6 +12,7 @@ import nextJS from '../assets/svg/skills/nextJS.svg'
 import nodeJS from '../assets/svg/skills/nodeJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
 import react from '../assets/svg/skills/react.svg'
+// import reactNative from '../assets/svg/skills/reactNative.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
 import vue from '../assets/svg/skills/vue.svg'
@@ -91,6 +92,8 @@ export const skillsImage = (skill) => {
             return photoshop;
         case 'docker':
             return docker;
+        // case 'reactNative':
+        //     return reactNative;
         case 'illustrator':
             return illustrator;
         case 'adobe xd':
